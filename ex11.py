@@ -1,7 +1,7 @@
 print("How old are you?", end=' ')
 age = input()
 print("How tall are you?", end=' ')
-height = input()
+height = input() # if you want to use number for math use y = int(input())
 print("How much do you weight?", end=' ')
 weight = input()
 
