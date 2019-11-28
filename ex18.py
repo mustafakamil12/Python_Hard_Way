@@ -19,7 +19,7 @@ def print_none():
     print("I got noting....")
 
 
-print_two("Zed", "Shaw");
+print_two("Zed", "Shaw")
 print_two_again("Zed", "Shaw")
 print_one("First!")
 print_none
