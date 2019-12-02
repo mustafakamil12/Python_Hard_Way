@@ -22,3 +22,8 @@ def print_line(line, encoding, errors):
 languages = open("languages.txt", encoding="utf-8")
 
 main(languages, encoding, error)
+
+# You can also use some tech. to get what the cahr is represented by a given number. you can use python directly.
+# 0b1011010
+# ord('Z')
+# chr(90)
